@@ -2,7 +2,10 @@
 
 This project is a 4-wheel robot car built using an **Arduino**, **Adafruit Motor Shield**, **ultrasonic sensor**, and a **servo** for scanning. The robot operates in multiple modes using Bluetooth commands sent from a mobile app.
 
-![My Image](images/hardware.jpg)
+## Demo Video: click on the image to see the video
+[![Watch the video](https://img.youtube.com/vi/nDdKxusu7xU/0.jpg)](https://youtu.be/nDdKxusu7xU)
+
+or click here : https://youtu.be/nDdKxusu7xU
 
 ---
 
@@ -46,11 +49,6 @@ Automatically stops and backs away if an object gets too close—even during man
 
 #### **5. Combined Mode**
 Allows Bluetooth control while still enabling automatic obstacle avoidance.
-
----
-
-## Demo Video:
-[![Watch the video](https://img.youtube.com/vi/nDdKxusu7xU/0.jpg)](https://youtu.be/nDdKxusu7xU)
 
 ---
 
