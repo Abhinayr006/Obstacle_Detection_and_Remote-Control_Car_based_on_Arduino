@@ -7,6 +7,7 @@ This project is a 4-wheel robot car built using an **Arduino**, **Adafruit Motor
 ### 📱 Bluetooth Control via Mobile App
 I used the **“Arduino Bluetooth Controller” app (v1.7)** from the Google Play Store to control the car.  
 The app sends **customized characters** through Bluetooth, such as:
+![Uploading IMG_20241015_073829.jpg…]()
 
 - `A` – Normal Bluetooth control  
 - `O` – Emergency Stop mode  
