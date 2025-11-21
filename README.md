@@ -2,12 +2,13 @@
 
 This project is a 4-wheel robot car built using an **Arduino**, **Adafruit Motor Shield**, **ultrasonic sensor**, and a **servo** for scanning. The robot operates in multiple modes using Bluetooth commands sent from a mobile app.
 
+![Uploading IMG_20241015_073829.jpg…]()
+
 ---
 
 ### 📱 Bluetooth Control via Mobile App
 I used the **“Arduino Bluetooth Controller” app (v1.7)** from the Google Play Store to control the car.  
 The app sends **customized characters** through Bluetooth, such as:
-![Uploading IMG_20241015_073829.jpg…]()
 
 - `A` – Normal Bluetooth control  
 - `O` – Emergency Stop mode  
