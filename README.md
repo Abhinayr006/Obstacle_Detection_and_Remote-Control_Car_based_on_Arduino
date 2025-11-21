@@ -49,7 +49,8 @@ Allows Bluetooth control while still enabling automatic obstacle avoidance.
 
 ---
 
- ## Demo Video: [![Watch the video](https://youtu.be/nDdKxusu7xU?si=TGfjMnOfi0N0bFqv)
+## Demo Video:
+[![Watch the video](https://img.youtube.com/vi/nDdKxusu7xU/0.jpg)](https://youtu.be/nDdKxusu7xU)
 
 ---
 
