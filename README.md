@@ -4,7 +4,6 @@ This project is a 4-wheel robot car built using an **Arduino**, **Adafruit Motor
 
 ![My Image](images/hardware.jpg)
 
-## Demo Video: [![Watch the video](https://youtu.be/nDdKxusu7xU)
 ---
 
 ### 📱 Bluetooth Control via Mobile App
@@ -47,6 +46,10 @@ Automatically stops and backs away if an object gets too close—even during man
 
 #### **5. Combined Mode**
 Allows Bluetooth control while still enabling automatic obstacle avoidance.
+
+---
+
+ ## Demo Video: [![Watch the video](<iframe width="560" height="315" src="https://www.youtube.com/embed/nDdKxusu7xU?si=FAYDkWIbhHeQhF-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
 ---
 
