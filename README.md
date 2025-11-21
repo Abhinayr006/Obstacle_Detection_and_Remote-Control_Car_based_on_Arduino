@@ -4,6 +4,7 @@ This project is a 4-wheel robot car built using an **Arduino**, **Adafruit Motor
 
 ![My Image](images/hardware.jpg)
 
+## Demo Video: [![Watch the video](https://youtu.be/nDdKxusu7xU)
 ---
 
 ### 📱 Bluetooth Control via Mobile App
